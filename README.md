@@ -1,1 +1,3 @@
 # Traffic-Flow-Prediction-using-Neural-Networks
+The main aim of the project is to predict the traffic flow based on few input features like Time,Traffic_Flow,Average_Speed,Occupancy,Temperature,Humidity,Wind_Speed,Precipitation,Visibility,Road_Condition
+This project investigates how batch normalization and different gradient descent methods affect traffic flow prediction. An autoencoder is used for feature reduction, followed by a neural network model for predicting traffic congestion. Various gradient descent methods and optimizers are explored to compare their efficiency, convergence speeds, and prediction accuracy.
